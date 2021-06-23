@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+encoding: bom|utf-8
+title: Docs
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -31,7 +32,11 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+#theme: minima
+theme: just-the-docs
+# just-the-docs related stuff
+#color_scheme: dark
+
 #remote_theme: rundocs/jekyll-rtd-theme
 plugins:
   - jekyll-feed
