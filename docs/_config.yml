@@ -34,10 +34,10 @@ github_username:  jekyll
 # Build settings
 #theme: minima
 theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 # just-the-docs related stuff
 #color_scheme: dark
 
-#remote_theme: rundocs/jekyll-rtd-theme
 plugins:
   - jekyll-feed
 
