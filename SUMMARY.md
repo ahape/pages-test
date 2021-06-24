@@ -13,3 +13,7 @@
 * [SMDR Processor Service](untitled-9.md)
 * [Web App](untitled-10.md)
 
+## Example Group
+
+* [Example Page](example-group/example-page.md)
+
